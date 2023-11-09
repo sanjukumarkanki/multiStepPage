@@ -1,0 +1,16 @@
+.leftSIde-container-bg{
+  background-image: url('file:///C:/Users/SANTHOSH/AppData/Local/Temp/b3f41afd-50f0-47c6-82d6-a994f2687001_multi-step-form.zip.001/multi-step-form-main/assets/images/bg-sidebar-mobile.svg');
+  background-size: cover;
+  aspect-ratio: 1/1;
+  object-fit: cover;
+}
+@media screen and (min-width : 768px) {
+  .leftSIde-container-bg{
+    background-image: url('file:///C:/Users/SANTHOSH/AppData/Local/Temp/a66f06a0-e540-4a39-8f61-613f5dfebfd3_multi-step-form.zip.fd3/multi-step-form-main/assets/images/bg-sidebar-desktop.svg');
+    height: 100%;
+  }
+}
+
+*{
+  user-select: none;
+}

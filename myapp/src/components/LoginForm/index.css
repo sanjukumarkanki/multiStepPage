@@ -1,0 +1,24 @@
+.login-form-container{
+    background-image: url('https://assets.ccbp.in/frontend/react-js/spotify-remix-login-bg.png');
+    background-size: cover;
+    min-height: 100vh;
+}
+
+
+
+  .login-button {
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-size: 14px;
+    color: #ffffff;
+    height: 40px;
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 2px;
+    background-color: #1db954;
+    border-radius: 8px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+  }
+  
